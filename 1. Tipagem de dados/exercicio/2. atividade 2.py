@@ -1,4 +1,4 @@
-#elabora algoritimo pra ler nome 2 notas (media) (nome idade  notas media)
+#elabora algoritimo pra ler nome, idade e 2 notas (media) (nome idade  notas media)
 
 import os
 
